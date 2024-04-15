@@ -1,5 +1,7 @@
 # assignment
 
+[This PDF](CodingQns.pdf) has the questions under consideration.
+
 ### Question 1:
 If citations are arranged in descending order then 
 If the number of elements occurring before the current element is greater than or equal to the value current element, then current element is the h-index of author under consideration. [code](https://github.com/nishantaMishra/assignment/blob/main/h-index-calculator.py)
