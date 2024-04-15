@@ -18,3 +18,11 @@ This problem could be translated to the problem of counting zeroes. We have to c
 
 Following GIF explains how the algorithm works. It shows if we count only the zeroes occurring in between two non-zero numbers then we will get total amount of water trapped.
 ![myfile](waterTrapplog.gif)
+
+Example:
+```bash
+
+$python3 water-trap-calculator.py
+Enter the elevation map: 3,0,1,4,1,1,3,1
+Water trapped is: 9 units
+```
