@@ -16,7 +16,7 @@ The researcher's h-index is: 3
 Water will be trapped only if there is atleast one block on either side of any depression. 
 This problem could be translated to the problem of counting zeroes. We have to count zeroes lying between two non-zero integers and sequentially remove the last layer of elevation graph. [code](https://github.com/nishantaMishra/assignment/blob/main/water-trap-calculator.py)
 
-Following GIF explains how the algorithm works. It shows if we count only the zeroes occurring in between two non-zero numbers then we will get total amount of water trapped.
+Following GIF explains how the algorithm works. It shows if we count only the zeroes occurring in between two non-zero numbers then we will get total amount of water trapped. 1 + 4 + 4 = 9.
 ![myfile](waterTrapplog.gif)
 
 Example:
