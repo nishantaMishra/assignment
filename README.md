@@ -9,7 +9,7 @@ If the number of elements occurring before the current element is greater than o
 Example
 ```bash
 Enter the array of citations separated by comma: 1,4,5,8,2,3,1
-The researcher's h-index is: 3
+The researcher\'s h-index is: 3
 ```
 
 ### Question 2
